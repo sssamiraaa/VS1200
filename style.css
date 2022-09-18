@@ -1,0 +1,21 @@
+body{
+   background-image: url("https://i.ytimg.com/vi/zG_8Rqg3yzQ/maxresdefault.jpg");
+   background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+p{
+    background-color: rgba(247, 255, 139, 0.452);
+   color: azure;
+    font-size: 35px;
+    margin: 30px 30px;
+    padding: 15px 35px 35px 35px; ;
+    width: 50%;
+    text-align: left;
+    
+}
+h1{
+    color: azure;
+}
